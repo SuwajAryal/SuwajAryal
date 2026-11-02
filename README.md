@@ -1,6 +1,6 @@
 # Suwaj Aryal
 
-## Start here: my portfolio
+## Civil Engineer | Water Resources & Hydropower
 
 ### [Visit my portfolio →](https://suwajaryal.github.io/)
 
