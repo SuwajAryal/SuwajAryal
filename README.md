@@ -17,5 +17,5 @@ I’m a civil engineer working on water resources and hydropower. My research us
 ## Side projects
 
 - [boi_1](https://github.com/SuwajAryal/boi_1) is a sleepy Windows desktop cat with a focus timer, stopwatch, and little to-do list.
-- [GRE Scholar](https://github.com/SuwajAryal/Vocab_game) is a lo-fi flashcard game for GRE vocabulary.
+- [Vocab Game](https://github.com/SuwajAryal/Vocab_game) is a lo-fi flashcard game for vocabulary practice.
 - [Coding Motion](https://github.com/SuwajAryal/Coding_motion) plays with speed and gravity in Pygame.
